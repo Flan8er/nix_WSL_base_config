@@ -22,8 +22,8 @@
 		    
 		    home.packages.git = {
 		    	enable = true;
-		      userName = "Casey Vaughn";
-		      userEmail = "casey.vaughn9@aol.com"
+		      userName = "Your Name";
+		      userEmail = "your.email@email.com"
 		    }
 		  
 		    home.stateVersion = "24.05";
